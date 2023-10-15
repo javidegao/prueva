@@ -1,9 +1,13 @@
 #EXTM3U
+
 #EXTINF:-1,La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
 #EXTINF:-1,La 2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
 #EXTINF:-1,TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+
 #EXTINF:-1,CAZYPESCA HD
 http://espaniatv.xyz:8080/623929/AfpE9w/67521
